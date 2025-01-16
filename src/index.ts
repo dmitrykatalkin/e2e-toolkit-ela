@@ -1,0 +1,1 @@
+export { ELAComponent } from './ela';
